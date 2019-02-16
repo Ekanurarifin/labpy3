@@ -16,7 +16,7 @@ untuk menamnpilkan hasil
 f. print("Selesai")
 untuk menampilkan hasil teks selesai
 ```
-CODINGAN LATIHAN1PY
+CODINGAN LATIHAN 1 PY
 ```
 import random
 n = int(input("Masukan nilai N : "))
